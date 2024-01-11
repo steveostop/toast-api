@@ -8,12 +8,13 @@
   "name": "toast-api",
   "version": "0.0.1",
   "description": "interaction with the toast api",
-  "main": "Toast.js",
+  "main": "ToastAPI.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "toast"
+    "toast",
+    "toasttab"
   ],
   "author": "Steve Ostopchuck",
   "license": "ISC"
